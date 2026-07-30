@@ -1,0 +1,1 @@
+Publique copiando todos os arquivos para a pasta public_html da hospedagem.
